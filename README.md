@@ -424,14 +424,7 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 <info>Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB$nome=[B]TORRENT HOMEM ARANHA[/B]</link>
-<link>http://54.39.157.211/FILMES/Homem.Aranha.Sem.Volta.Para.Casa.2021.mp4$nome=[B]LINK DIRETO HOMEM ARANHA[/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
-<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
-</item> 
+
 
 
 
