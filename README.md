@@ -211,3 +211,150 @@ Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: 
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O confronto entre Superman (Henry Cavill) e Zod (Michael Shannon) em Metrópolis fez com que a população mundial se dividisse acerca da existência de extra-terrestres na Terra. Enquanto muitos consideram o Superman como um novo deus, há aqueles que consideram extremamente perigoso que haja um ser tão poderoso sem qualquer tipo de controle. Bruce Wayne (Ben Affleck) é um dos que acreditam nesta segunda hipótese. Sob o manto de um Batman violento e obcecado, ele investiga o laboratório de Lex Luthor (Jesse Eisenberg), que descobriu uma pedra verde que consegue eliminar e enfraquecer os filhos de Krypton.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] BATMAN & ROBIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EA0ED162420FB328CD1E7607032CFF8379E84A7</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/9b/Batman_Robin_1997.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A dupla dinâmica enfrenta uma terrível dupla de vilões: o gélido Mr. Freeze (Arnold Schwarzenegger) e a delicada botânica que, ao sofrer um acidente, transforma-se na perigosa e vingativa Hera Venenosa (Uma Thurman). Mas, para poder livrar Gotham City das garras dos vilões, Batman (George Clooney) e Robin (Chris O’Donnell) contam com uma nova companheira, a Batgirl (Alicia Silverstone).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA - DEAD POOL  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A$nome=DEAD POLL 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1$nome=DEAD POLL 2</link>
+<thumbnail>https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6314/6314977_so.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói – tudo isso, enquanto chuta 50 tons de bundas. Porque,? s vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - BATMAN [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9E12910F835903F67D35BCF7F5B568A11B1D6CA</link>
+<thumbnail>https://25.media.tumblr.com/tumblr_m5ittz2xV81ql5i2ao1_500.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Trilogia Batman: O Cavaleiro das Trevas, Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA - HELBOY [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1BB01A0477B06FD743B6A7591757DA41CC4F97BE</link>
+<thumbnail>https://plexcollectionposters.com/images/2018/05/08/Hellboy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Coleção com todos os 3 filmes da franquia, sendo eles, Hellboy 1 (2004), Hellboy II: O Exército Dourado (2008) e Hellboy, o remake de 2019. Nimue (Milla Jovovich), a Rainha de Sangue, foi uma bruxa tão poderosa que nenhum mortal jamais conseguiu derrotá-la. Durante uma batalha, seu corpo foi dividido em seis partes e espalhado pelos lugares mais distantes da Terra. Anos depois, o massacre a um mosteiro próximo à Londres levanta a suspeita de que alguém pode estar querendo ressuscitá-la e Hellboy (David Harbour) recebe a missão de conter essa terrível ameaça. A humanidade quase não conseguiu sobreviver aos seus poderes da primeira vez e certamente não sobreviverá na segunda.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ANTOLOGIA -  SUPERMAN [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498$nome=SUPERMAN O FILME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947$nome=SUPERMAN 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5$nome=SUPERMAN 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec184nome=SUPERMAN 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37$nome=SUPERMAN O HOMEM DE AÇO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdad4d8e5aa48ecffd0f8252d283aff92694d591$nome=O RETORNO DO SUPERMAN</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wW0F2iC6cTwz99viCJQlK1W2GZj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Superman I: O Filme (Superman, 1978) – Jor-El (Marlon Brando), um renomado cientista, prevê a destruição do seu planeta e alerta o governo, que não lhe dá credito. Assim, decide salvar seu filho, mandando-o para a Terra, onde terá superpoderes. Na Terra, ele usa o nome de Clark Kent (Christopher Reeve) e já adulto e trabalhando como repórter em um jornal, não demonstra ter superpoderes. Mas quando uma situação inesperada põe em risco a vida de Lois Lane (Margot Kidder), uma colega de trabalho, ele é obrigado a se revelar para o público, ficando conhecido popularmente como Superman. Descontente com o surgimento de um super-herói na cidade, Lex Luthor (Gene Hackman), um gênio do mal, o obriga a se desdobrar para evitar a morte de milhões de pessoas.
+Superman II: A Aventura Continua (Superman II, 1980) Três perigosos prisioneiros do extinto planeta Krypton, que estavam confinados na Zona Fantasma, se libertam graças à uma explosão. O trio parte então para a Terra, onde passam a ter os mesmos poderes do Super-Homem, mas o objetivo deles é dominar o planeta.
+Superman III (Superman III, 1983) – Depois do épico Superman: o Filme e das estupendas batalhas de Superman II: A Aventura Continua, muitos imaginaram que nada estrelado pelo Homem de Aço poderia superá-los. Em Superman III, o pensamento prova-se contrário. Gus Gorman (Richard Pryor), um programador de computador “quase” brilhante junta-se à trama. Em suas mãos, um teclado torna-se uma verdadeira arma. Christopher Reeve retorna em seu mais celebrado papel, aprofundando ainda mais seu álter-ego humano, Clark Kent, quando encontra uma paixão do passado (Annette O´Toole), em uma reunião de sua antiga classe do colégio em Smallville. E quando Superman torna-se seu maior inimigo, após exposição intensa à Krptonita, Reeve interpreta dois papéis com convicção surpreendente. Efeitos visuais incríveis permeiam todo o filme, mas, acima de tudo, pode-se ver coração em todas as cenas.
+Superman IV: Em Busca da Paz (Superman IV: The Quest for Peace, 1987) – Christopher Reeve não apenas encarna o Homem-de-Aço pela quarta vez em Superman IV – Em Busca da Paz, como também colaborou para desenvolver o argumento provocativo e polêmico que o filme aborda: o desarmamento nuclear. “Para mim, é o filme mais pessoal em toda a série”, disse Reeve. “O tema reflete diretamente aquilo que esperamos do Superman, o que ele deveria ser e o que ele deveria fazer”. E dessa vez Superman tem muito que fazer… Para tornar o mundo um lugar seguro para os contrabandistas de armas nucleares, Lex Luthor (Gene Hackman) cria um novo tipo de desafio para o Homem-de-Aço: um vilão carregado de radiação e conhecido como Homem Nuclear (Mark Pillow). Esses dois seres superpoderosos se enfrentarão em um combate explosivo, que obriga Superman a salvar a Estátua da Liberdade, a impedir que o Monte Etna entre em erupção e a reconstruir a Grande Muralha da China. Seus pedidos foram atendidos: o maior e mais poderoso herói de todos os tempos está de volta!
+Superman: O Retorno (Superman Returns, 2006) – Um herói para o nosso milênio. E para a posteridade, apesar de que durante os longos cinco anos (tempo demais para a memória dos fãs!) em que Superman quis saber mais sobre seu planeta natal, as coisas mudaram um bocado em seu planeta adotivo. As nações aprenderam a viver sem ele. Lois Lane agora tem um filho, um noivo e ganhará um Pulitzer por conta de sua matéria “Por Que o Mundo Não Precisa do Superman”. E Lex Luthor tem um plano para destruir milhões de vidas inocentes.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] HULK - TEMPORADA COMPLETA DE 1978 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA5E885A616B0E8745274278EA62C5FEAB88437E</link>
+<thumbnail>https://http2.mlstatic.com/coleco-o-incrivel-hulk-1977-a-2008-D_NQ_NP_803801-MLB20417478548_092015-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Incrível Hulk exibida nos anos 70 completa, dublada e legendada. Depois da morte da esposa, o Dr. David Bruce Banner procura um modo de liberar uma força desconhecida, que supostamente todos os humanos teriam, para protegerem seus entes queridos. Ele descobre que a radiação gama poderia lhe dar essa força e, para não ferir ninguém, ele a testa em si mesmo. David não sentiu nada diferente logo após o teste mas depois descobriu que ao se sentir raivoso ou pressionado, transformava-se num homem monstruoso, de pele verde, grande e musculoso. O repórter Jack McGee descobre esse segredo e tenta culpar o gigante verde pela morte de uma pessoa em um acidente e passa a perseguir o Dr. Banner, que tenta fugir, ao mesmo tempo em que busca uma maneira de se curar das transformações.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MEN - O FILME [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39eb9768fc67a32861563fe0b3e4cef0472080bb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nascidos em um mundo cheio de preconceitos, estão algumas crianças que possuem poderes extraordinários e perigosos resultado de mutações genéticas. Sob a orientação do Prof. Xavier, eles aprendem a direcionar seus poderes em prol da humanidade.</info>
+
+<item>
+<title>[COLOR silver][B] X-MEN 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3077990e44b2d0f149d97875e61f4fcf14bb57fb</link>
+<thumbnail>http://vortexcultural.com.br/images/2019/06/x-men-2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ainda vivendo em um mundo que os odeia, os mutantes passam a sofrer uma discriminação ainda maior quando um novo mutante provoca um ataque ao Presidente dos Estados Unidos, quase matando-o. A notícia faz com que a sociedade se manifeste ainda mais contra os mutantes, fazendo com que ganhe força o projeto do registro de mutantes. William Stryker (Brian Cox), um militar que tem experiência em lidar com mutantes e uma ligação com o passado de Wolverine (Hugh Jackman), torna-se um dos porta-vozes deste pedido, além de se tornar o responsável por um plano que tem por meta erradicar de uma vez por todas os mutantes. Com a autorização do Presidente, Stryker inicia uma grande ofensiva contra os mutantes, invadindo a mansão do Professor Charles Xavier e forçando que Magneto, que fugiu da prisão, se una aos X-Men para combater Stryker.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MEN 3 - O CONFRONTO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:429436f4e5f7d05179f02a7b2df5e664a6c959d8</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71%2BawUoH43L._AC_SX569_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> É descoberta uma cura para os mutantes, que agora podem optar por manter seus poderes ou se tornarem seres humanos normais. A descoberta põe em campos opostos Magneto, que acredita que esta cura se tornará uma arma contra os mutantes, e os X-Men, liderados pelo professor Charles Xavier.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MEN - PRIMEIRA CLASSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f20640c5c8578e45e251817ddd2a7ca31873857</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ytEXLIfyEVf12IQq2bKpEbHnBW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Veja como tudo começou neste emocionante primeiro capítulo da saga dos X-Men. Antes de Charles Xavier e Eric Lehnsherr passarem a ser conhecidos como professor X e Magneto, eles eram dois rapazes que ainda descobriam seus poderes. Antes de eles serem inimigos, eles eram amigos íntimos e reuniram uma elite de mutantes para formar os X-Men numa tentativa de impedir a 3° Guerra Mundial!</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MEN - DIAS DE UM FUTURO ESQUECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E868C0C950B1A06DA25AB20E1F216E002FBEB43</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFBCWz9mfTXQ9fVwce8z99dGuXh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No futuro, os mutantes são caçados impiedosamente pelos Sentinelas, gigantescos robôs criados por Bolívar Trask (Peter Dinklage). Os poucos sobreviventes precisam viver escondidos, caso contrário serão também mortos. Entre eles estão o professor Charles Xavier (Patrick Stewart), Magneto (Ian McKellen), Tempestade (Halle Berry), Kitty Pryde (Ellen Page) e Wolverine (Hugh Jackman), que buscam um meio de evitar que os mutantes sejam aniquilados. O meio encontrado é enviar a consciência de Wolverine em uma viagem no tempo, rumo aos anos 1970. Lá ela ocupa o corpo do Wolverine da época, que procura os ainda jovens Xavier (James McAvoy) e Magneto (Michael Fassbender) para que, juntos, impeçam que este futuro trágico para os mutantes se torne realidade. Com cenas inéditas e conteúdo inédito, a Edição Vampira te leva a uma imersão no universo dos X-men nunca vista antes. Veja o encontro dos personagens da franquia original enquanto eles unem forças com seus personagens mais jovens na luta contra o exército de Sentinelas que estão caçando mutantes e humanos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MEN - ORIGENS- WOLVERINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f82a8659c872ca84be24d1ca58c83d34e7e03486</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xS0qoaeYDcZN0kDDgQEBybhuzP7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O longa conta a história do passado violento e romântico de Wolverine (Hugh Jackman), de seu complexo relacionamento com Dentes de Sabre  e do ameaçador programa Arma-X. Wolverine encontra muitos mutantes pelo seu caminho, tanto familiares quanto novos, incluindo aparições surpresas de várias lendas do universo dos X-Men.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] WOLVERINE - IMORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dec2b44ab48327a8e352813b39e689f6e11ad144</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kyH36VMtY98tAeYXr70aE1S6aF2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Wolverine tem de enfrentar um inimigo à sua altura nesta batalha de vida ou morte, repleta de ação, passada no Japão dos dias de hoje. Vulnerável pela primeira vez e desafiado até o limite, Logan (Jackman) enfrenta não só o letal samurai feito de aço, mas também uma batalha interna contra sua própria imortalidade numa luta épica que o mudará para sempre.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LOGAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:770A9166779280BE20A435BCD943699AF36E45E7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sPQ41s9XwRaawK4LuuU6meoYhEs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Totalmente dublado e com qualidade de bluray! O X-men preferido de todos está volta no ano de 2029, Logan, mais conhecido como Wolverine, ganha a vida como motorista de limousine para cuidar do velho Charles Xavier, agora com mais de 90 anos. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela, uma mexicana que precisa da ajuda do antigo X-Men para proteger a pequena Laura Kinney / X-23. Agora Logan é perseguido pelo mercenário Donald Pierce, que está interessado na menina.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MEN - APOCALIPSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7da5276c2d4a3a19b718541f8f3a4e8de3907e80</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91pP3bV2dyL._AC_SX425_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Apocalipse, o primeiro mutante de todos, consegue retornar à vida após milhares de anos. Agora, ele sai à procura de seguidores para dominar o mundo. Caberá aos X-Men se unirem para impedir os planos do vilão e evitar uma catástofre mundial.
+Enredo: Desde o alvorecer da civilização, ele foi adorado como um deus. Apocalypse, o primeiro e mais poderoso mutante do universo X-Men da Marvel, acumulou os poderes de muitos outros mutantes, tornando-se imortal e invencível. Ao despertar após milhares de anos, ele está desiludido com o mundo como ele o encontra e recruta uma equipe de poderosos mutantes, incluindo um desanimado Magneto, para limpar a humanidade e criar uma nova ordem mundial, sobre a qual ele reinará. Como o destino da Terra está na balança, Raven com a ajuda do Professor X deve liderar uma equipe de jovens X-Men para impedir seu maior inimigo e salvar a humanidade da completa destruição.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MEN - FENIX NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4E8F80B8AF3A5957EBB34FD181CF1D9B8717AB8C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w4mvEKtjawXdYaq1bORuodLX6ti.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado em 1992, Charles Xavier está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ESPETACULAR - HOMEM ARANHA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8086c8fe9eaf45d238dd0612f4598b7a0d0fdd27</link>
+<thumbnail>https://3.bp.blogspot.com/-fOq55Dwl2RU/UIPfsrFrOOI/AAAAAAAAJZ4/LcuhCSG0JyU/s1600/O+Espetacular+Homem+Aranha1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.
+Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos pais quando menino, deixando-o para ser criado por seu tio Ben (Sheen) e tia May (Field). Como a maioria dos adolescentes, Peter está tentando descobrir quem ele é e como ele se tornou a pessoa que é hoje. Peter também está encontrando seu caminho com sua primeira paixão pelo ensino médio, Gwen Stacy (Stone), e juntos, eles lutam com amor, compromisso e segredos. Quando Peter descobre uma misteriosa maleta que pertencia ao pai, ele inicia uma busca para entender o desaparecimento de seus pais – levando-o diretamente à Oscorp e ao laboratório do Dr. Curt Connors (Ifans), ex-parceiro de seu pai. Como o Homem-Aranha está em rota de colisão com o alter-ego de Connors, O Lagarto, Peter fará escolhas que alteram a vida para usar seus poderes e moldar seu destino para se tornar um herói</info>
+</item>
