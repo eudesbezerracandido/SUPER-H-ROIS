@@ -13,7 +13,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A4DFC2E14792CD5C8383C73D033DED388EB6C61</link>
 <thumbnail>https://img.elo7.com.br/product/original/26602E1/big-poster-filme-vingadores-ultimato-lo04-tamanho-90x60-cm-vingadores-ultimato.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Após os eventos devastadores de Vingadores: Guerra Infinita, o Universo entrou em destruição por causa do Estalar de Dedos do Thanos, o Titã Louco. Com a ajuda dos heróis sobreviventes, os Vingadores devem se reunir mais uma vez para desfazer as ações de Thanos e restaurar a ordem do universo de uma vez por todas, não importa quais serão as consequências que os aguardam.</info>
+<info>Após os eventos devastadores de Vingadores: Guerra Infinita, o Universo entrou em destruição por causa do Estalar de Dedos do Thanos, o Titã Louco. Com a ajuda dos heróis sobreviventes, os Vingadores devem se reunir mais uma vez para desfazer as ações de Thanos e restaurar a ordem do universo de uma vez por todas, não importa quais serão as consequências que os aguardam.</info> 
 </item>
 
 <item>
