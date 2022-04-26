@@ -55,3 +55,61 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história de T’Challa (Chadwick Boseman), príncipe do reino de Wakanda, que perde o seu pai e viaja para os Estados Unidos, onde tem contato com os Vingadores. Entre as suas habilidades estão a velocidade, inteligência e os sentidos apurados.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] CAPTÃ MARVEL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GEJFLKXJJ4G5XIX7VMITZHAHWRXEWKSY</link>
+<thumbnail>https://cinepop.com.br/wp-content/uploads/2019/02/capit%C3%A3-marvel-1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Capitã Marvel Torrent – BluRay 720p/1080p/4K Dual Áudio, Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUARTETO FANTASTICO 2015 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA22E35E89F00A5810E5D1F539B687AC7512844D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aVGL67lLyUJmmpgmrsgRDkDY8Nm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro adolescentes são conhecidos pela inteligência e pelas dificuldades de inserção social. Juntos, são enviados a uma missão perigosa em uma dimensão alternativa. Quando os planos falham, eles retornam à Terra com sérias alterações corporais. Munidos desses poderes especiais, eles se tornam o Senhor Fantástico (Miles Teller), a Mulher Invisível (Kate Mara), o Tocha Humana (Michael B. Jordan) e o Coisa (Jamie Bell). O grupo se une para proteger a humanidade do ataque do Doutor Destino (Toby Kebbell).</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] QUARTETO FANTASTICO 2005 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d4c6c1ee5af23781111db87ed08e6d51deb1a9b</link>
+<thumbnail>https://a-static.mlcdn.com.br/1500x1500/dvd-quarteto-fantastico-fox/universocultural/1678014729/595debf9d204e6eeffe3ecdfbbd33219.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O cientista Reed Richards convence seu arrogante colega Victor von Doom a financiar seus experimentos com energia cósmica. Na estação espacial Von Doom, a tripulação, incluindo o astronauta Ben Grimm, a pesquisadora Sue Storm e o piloto Johnny Storm, é exposta a uma tempestade cósmica misteriosa que dá superpoderes a eles. Eles tentam lidar com suas transformações enquanto o detestável von Doom jura vingança.
+Enredo: Reed Richards, um cientista brilhante, mas tímido e falido, está convencido de que a evolução pode ser desencadeada por nuvens de energia cósmica, e calculou que a Terra vai passar por uma dessas nuvens em breve. Juntamente com seu amigo e parceiro, o musculoso astronauta Ben Grimm, Reed convence seu conceituado colega do MIT, Dr. Victor Von Doom, agora CEO de sua própria empresa, a permitir o acesso à sua estação espacial de propriedade privada. Von Doom concorda em troca de controle sobre o experimento e a maioria dos lucros de quaisquer benefícios que ele traz. Assim, ele traz a bordo Susan Storm, sua tímida, embora assertiva pesquisadora genética e ex-amante de Reed, com quem ela teve um rompimento amargo, e seu irmão diametralmente oposto Johnny, o piloto independente e impetuoso da playboy. Os astronautas chegam em casa intactos; no entanto, em pouco tempo eles começam a sofrer mutações, desenvolvendo poderes estranhos e surpreendentes como resultado de sua exposição à nuvem! Reed é capaz de </info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUARTETO FANTASTICO - E O SURFISTA PRATEADO 2007 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50005e771b2797939494e97701d66269d011918e</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/93/01/84/20230847.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Reed Richards (Ioan Gruffudd) e Susan Storm (Jessica Alba) estão prestes a se casar. Porém, durante a cerimônia, algo estranho surge nos céus de Nova York. Trata-se do Surfista Prateado (Doug Jones), um ser alienígena que possui grandes poderes e que trabalha como arauto de Galactus, o destruidor de planetas. O Surfista veio à Terra para prepará-la para ser destruída por seu mestre, mas para atingir seu objetivo precisará enfrentar o Quarteto Fantástico.
+Enredo: Tudo parece estar indo muito bem para o Quarteto Fantástico. Reed e Sue estão finalmente se casar, e as coisas não poderia parecer melhor. No entanto, quando o misterioso Surfista Prateado cai coisas, eles aprendem que eles vão ter de lidar com um velho inimigo, e para o planeta poderoso comer Galactus.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O INCRIVEL HULK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:171e96900c89846793451b2c5e3ec9365b7ccf0d</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/210/485/21048566_20131010182211313.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross (William Hurt), seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HULK [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966</link>
+<thumbnail>https://mb.web.sapo.io/e98cc1521b0e2dc18753622dbb6c964cbb5d7a84.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bruce Banner (Eric Bana) é um cientista que teve problemas em sua infância: ele foi adotado e passou por uma experiência traumática após a morte de seus pais, a qual não lembra de forma alguma. Juntamente com ele trabalha Betty Ross (Jennifer Connelly), sua grande paixão. Ambos trabalham em um projeto que envolve a reconstituição de tecidos através da radiação gama, um projeto o qual o Exército está bastante interessado. Ao consertar o gammasphere, aparelho usado para aplicar a radiação gama em animais, um dos cientistas do projeto o aciona acidentalmente. Em uma tentativa desesperada de salvar o amigo, Banner se atira defronte o gammasphere e absorve a radiação gama lançada. Inexplicavelmente o acidente não o mata, fazendo com que permaneça durante algum tempo no hospital sob observação. É quando a reaparição de seu pai biológico, o qual considerava morto, revela segredos sobre o passado de Bruce Banner o qual nem ele mesmo conhecia, ao mesmo tempo em que precisa lidar com estranhas modificações em seu corpo a cada vez que fica com raiva.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VINGADORES - GUERRA INFINITA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93A358F8A8F71F93DB104308044F83EB1DDF7F75</link>
+<thumbnail>https://emc.acidadeon.com/dbimagens/programese/bvYjhsbxOBwpm8xLE5BhdA3a8CZ13062018110227.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Homem de Ferro, Thor, Hulk e os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes, para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.</info>
+</item>
