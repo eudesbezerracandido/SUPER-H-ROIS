@@ -113,3 +113,101 @@ Enredo: Tudo parece estar indo muito bem para o Quarteto Fantástico. Reed e Sue
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Homem de Ferro, Thor, Hulk e os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes, para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] MOTOQUEIRO FANTASMA 1 & 2 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b$nome=MOTOQUEIRO 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf71ee7f0232a12e8ab7d4586a000b639df1f9f8$nome=MOTOQUEIRO 2</link>
+<thumbnail>https://img01.mgo-images.com/image/thumbnail/v2/content/MMVE8D01ABAB952C8A5FA98AE58F6A4F0DE6.jpeg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Johnny Blaze (Nicolas Cage) trabalha como dublê e piloto de motocicleta. Há muito tempo ele fez um pacto com Mefisto (Peter Fonda) para proteger as duas pessoas que mais amava: seu pai, Barton (Brett Cullen), e sua namorada de adolescência, Roxanne Simpson (Eva Mendes). Em troca Johnny se transforma à noite no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer as ordens de Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.
+Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: Espírito de Vingança (Ghost Rider: Spirit of Vengeance). Depois de se esconder na Europa, Blaze é recrutado por uma seita secreta da igreja para salvar um garoto (Fergus Riordan) do demônio (Ciaran Hinds). Johnny tenta recusar o chamado, mas essa é a sua grande chance de se livrar de sua maldição.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - HOMEM  ARANHA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44A2DE2223EDA3E0925276CC7C9AC16355ECA2E6</link>
+<thumbnail>https://1.bp.blogspot.com/-I8eyM8ZZ7Is/T8-Ar7u9mdI/AAAAAAAAAXE/5qSWHPC24ak/s1600/capas.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Orfão desde criança, Peter Parker vive em Nova York com sua querida tia May e seu estimado Tio Ben. Peter leva a vida normal de qualquer jovem estudante, trabalhando como fotógrafo no jornal Clarim Diário, sob a tutela do editor J. Jonah Jameson, correndo atrás da atraente Mary Jane e divertindo-se com seu amigo Harry Osborn. Durante uma excursão da escola, onde Peter e seus colegas assistem a demonstrações científicas com aranhas, Peter é mordido por uma aranha geneticamente modificada. Pouco depois, ele descobre que adquiriu poderes incríveis: ele vê-se dotado com força e agilidade de aranhas, bem como uma aguçada percepção extrasensorial “aracnídea”. Como Homem Aranha, Peter entende as palavras do tio e decide usar seus extraordinários poderes na luta contra o crime. Enquanto isso, o empresário megalomaníaco Norman Osborn, pai de seu amigo Harry, também anda passando por transformações. Um teste com uma fórmula experimental aumenta sua força e inteligência, mas também o leva à insanidade. Agora, ele é o Duende Verde, que irá desafiar a determinação do jovem Peter Parker de combater o crime e ajudar inocentes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA - THOR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:628B9921E369D94DC14B446FFCE136BB4B7BB811</link>
+<thumbnail>https://i.imgur.com/06GpJP1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Duologia Thor Torrent – BluRay 720p/1080p Dual Áudio, Thor (Chris Hemsworth) estava prestes a receber o comando de Asgard das mãos de seu pai Odin (Anthony Hopkins) quando forças inimigas quebraram um acordo de paz. Disposto a se vingar do ocorrido, o jovem guerreiro desobedece as ordens do rei e quase dá início a uma nova guerra entre os reinos. Enfurecido com a atitude do filho e herdeiro, Odin retira seus poderes e o expulsa para a Terra. Lá, Thor acaba conhecendo a cientista Jane Foster (Natalie Portman) e precisa recuperar seu martelo, enquanto seu irmão Loki (Tom Hiddleston) elabora um plano para assumir o poder. Mas os guerreiros do Deus do Trovão fazem a mesma viagem para buscar o amigo e impedir que isso aconteça. Só que eles não vieram sozinhos e o inimigo está presente para uma batalha que está apenas começando</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  THOR - RAGNAROK [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C0AA4604F615810B16D5BEC9392DAB1514514527</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/08/26/00/05/175443.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - HOMEM DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D1F677634DF948A42C382EA7187693F39A74247</link>
+<thumbnail>https://4.bp.blogspot.com/-Rv0KJAUAIrk/Uj44R5WjyKI/AAAAAAAAE0w/kTqwoUO81Ls/s400/Trilogia+Homem+de+Ferro+Dual+%C3%81udio.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tony Stark é um industrial bilionário e inventor brilhante que realiza testes bélicos no exterior, mas é sequestrado por terroristas que o forçam a construir uma arma devastadora. Em vez disso, ele constrói uma armadura blindada e enfrenta seus sequestradores. Ao voltar para os EUA, Stark aprimora a armadura e a utiliza para combater o crime.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  VINGADORES  -  A ERA DE ULTRON [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61D9EA2D5E6CBF6465DE9AC5758EEB6694CFBC8D</link>
+<thumbnail>https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/0/408420150509-uau-posters-filmes-avengers-os-vingadores-era-ultron.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tentando proteger o planeta de ameaças como as vistas no primeiro Os Vingadores, Tony Stark busca construir um sistema de inteligência artifical que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron (voz de James Spader). Capitão América (Chris Evans), Homem de Ferro (Robert Downey Jr.), Thor (Chris Hemsworth), Hulk (Mark Ruffalo), Viúva Negra (Scarlett Johansson) e Gavião Arqueiro (Jeremy Renner) terão que se unir para mais uma vez salvar o dia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] Dr. ESTRANHO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NM7TGD5NCHO5IVMWGMDXJGPU5UAFK4GU</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/16/09/29/21/15/495786.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Doutor Estranho IMAX Torrent – BluRay 720p/1080p Dual Áudio, Stephen Strange (Benedict Cumberbatch) leva uma vida bem sucedida como neurocirurgião. Sua vida muda completamente quando sofre um acidente de carro e fica com as mãos debilitadas. Devido a falhas da medicina tradicional, ele parte para um lugar inesperado em busca de cura e esperança, um misterioso enclave chamado Kamar-Taj, localizado em Katmandu. Lá descobre que o local não é apenas um centro medicinal, mas também a linha de frente contra forças malignas místicas que desejam destruir nossa realidade. Ele passa a treinar e adquire poderes mágicos, mas precisa decidir se vai voltar para sua vida comum ou defender o mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O HOMEM FORMIGA E A VESPA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0907C0A3BCBA0C3CCDBF2DCF9C0A276D5D22D219</link>
+<thumbnail>https://boulevard.com.br/assisbrasil/wp-content/uploads/2018/06/ingresso-cinema-cinemark-homem-formiga-e-a-vespa-d-nq-np-860892-mlb27613002952-062018-f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após os acontecimentos de “Capitão América: Guerra Civil”, Scott Lang tenta equilibrar sua vida familiar como pai com suas responsabilidades como Homem-Formiga, quando Hope Van Dyne e Hank Pym apresentam-lhe uma nova missão para trazer à luz segredos do passado, exigindo que ele se junte com Van Dyne como a nova Vespa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O HOMEM FORMIGA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QSVEYGDE5LYMW665OZQZH7N2IWTPWIE3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DEMOLIDOR - O HOMEM SE MEDO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a4de8b92e341b4b2d045438dd7c647edc2779cf</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71mpL6uYeSL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após descobrir o verdadeiro trabalho de seu pai, o jovem Matt Murdock (Ben Affleck) sofre um acidente que faz com que fique cego e tenha seus sentidos ampliados, além de ganhar um apurado radar mental, que faz com que consiga perceber o que ocorre à sua volta. Já adulto, Matt estuda Direito e passa a treinar arduamente artes marciais. Com isso passa a ter uma vida dupla: durante o dia é um conceituado advogado e à noite passa a usar suas habilidades super-humanas para combater o crime, sob o codinome Demolidor.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LIGA DA JUSTIÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ACC37BFF6743A3290C84C33798B08378835664C</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/17/10/23/19/55/0260439.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman (Henry Cavill), Bruce Wayne (Ben Affleck) convoca sua nova aliada Diana Prince (Gal Gadot) para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes – Batman, Mulher-Maraviha, Aquaman (Jason Momoa), Cyborg (Ray Fisher) e Flash (Ezra Miller) -, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BATMAN VS SUPERMAN [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55C33BC6C9291DE8405AE5B40239E1EBDDC03078</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71FNl3R8WHL._AC_SL1000_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O confronto entre Superman (Henry Cavill) e Zod (Michael Shannon) em Metrópolis fez com que a população mundial se dividisse acerca da existência de extra-terrestres na Terra. Enquanto muitos consideram o Superman como um novo deus, há aqueles que consideram extremamente perigoso que haja um ser tão poderoso sem qualquer tipo de controle. Bruce Wayne (Ben Affleck) é um dos que acreditam nesta segunda hipótese. Sob o manto de um Batman violento e obcecado, ele investiga o laboratório de Lex Luthor (Jesse Eisenberg), que descobriu uma pedra verde que consegue eliminar e enfraquecer os filhos de Krypton.</info>
+</item>
