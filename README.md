@@ -358,3 +358,14 @@ Enredo: Desde o alvorecer da civilização, ele foi adorado como um deus. Apocal
 <info>Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.
 Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos pais quando menino, deixando-o para ser criado por seu tio Ben (Sheen) e tia May (Field). Como a maioria dos adolescentes, Peter está tentando descobrir quem ele é e como ele se tornou a pessoa que é hoje. Peter também está encontrando seu caminho com sua primeira paixão pelo ensino médio, Gwen Stacy (Stone), e juntos, eles lutam com amor, compromisso e segredos. Quando Peter descobre uma misteriosa maleta que pertencia ao pai, ele inicia uma busca para entender o desaparecimento de seus pais – levando-o diretamente à Oscorp e ao laboratório do Dr. Curt Connors (Ifans), ex-parceiro de seu pai. Como o Homem-Aranha está em rota de colisão com o alter-ego de Connors, O Lagarto, Peter fará escolhas que alteram a vida para usar seus poderes e moldar seu destino para se tornar um herói</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] MULHER MARAVILHA 1984 LEG.PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad05c3f5014af41f8dfb97ef47f2a00e31d70753</link>
+<thumbnail>https://i.pinimg.com/originals/60/02/cb/6002cb5bc7133de63d554d0567458ae9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mulher-Maravilha 1984 acompanha Diana Prince/Mulher-Maravilha (Gal Gadot) em 1984, durante a Guerra Fria, entrando em conflito com dois grande inimigos – o empresário de mídia Maxwell Lord (Pedro Pascal) e a amiga que virou inimiga Barbara Minerva/Cheetah (Kristen Wiig) – enquanto se reúne com seu interesse amoroso Steve Trevor </info> 
+</item>
+
+
+
