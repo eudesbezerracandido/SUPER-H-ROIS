@@ -424,6 +424,14 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 <info>Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LIGA DA JUSTIÇA - SNYDER CUT ( VERSÃO NÃO PUBLICADA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02c4214302c84a1dae1b0aa8fb90a338ee189a41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yox4nyshPZkAwRchjat37fmVhQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A versão definitiva do diretor de Zack Snyder da Liga da Justiça. Determinado a garantir que o sacrifício final do Superman não fosse em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.</info>
+</item>
+
 
 
 
