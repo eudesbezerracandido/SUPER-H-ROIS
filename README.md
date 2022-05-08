@@ -1,8 +1,14 @@
 # SUPER-H-ROIS
 
 
-
-
+<item>
+<title>[COLOR silver][B] DOUTOR ESTRANHO- NO MULTIVERSO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173DC54514604630F592D2AF38A73B5C90EF558F$nome=HDCAM DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eec05378a3eb4a649d6456ec520bc7bf656544ea$nome=LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sF0Ciu56om4sTR1KtuZvbUoqKrf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ag5CV8TwoCfN39Tz4MVQz7tHfQX.jpg</fanart>
+<info> Alguns meses depois dos eventos de "Homem-Aranha: Sem Volta Para Casa", o Dr. Stephen Strange, com a ajuda de velhos e novos aliados místicos, viaja pelo Multiverso para enfrentar um novo e misterioso adversário.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GUARDIÕES DA GALÁXIA - 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
