@@ -13,8 +13,8 @@
 <item>
 <title>[COLOR silver][B] V VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C21CADF05574427DFD7864A26AA174BA2828EA0E</link>
-<thumbnail>https://br.web.img2.acsta.net/pictures/210/506/21050637_20131017235623573.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pXZaQS5cc0h4ohaZKapd471fwGG.jpg</fanart>
 <info>Em uma Inglaterra do futuro, onde está em vigor um regime totalitário, vive Evey Hammond (Natalie Portman). Ela é salva de uma situação de vida ou morte por um homem mascarado, conhecido apenas pelo codinome V (Hugo Weaving), que é extremamente carismático e habilidoso na arte do combate e da destruição. Ao convocar seus compatriotas a se rebelar contra a tirania e a opressão do governo inglês, V provoca uma verdadeira revolução. Enquanto Evey tenta saber mais sobre o passado de V, ela termina por descobrir quem é e seu papel no plano de seu salvador para trazer liberdade e justiça ao país.</info>
 </item>
 
