@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] V VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2959f47d3e5329887af52441ec37fa532b7e6e5</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/506/21050637_20131017235623573.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma Inglaterra do futuro, onde está em vigor um regime totalitário, vive Evey Hammond (Natalie Portman). Ela é salva de uma situação de vida ou morte por um homem mascarado, conhecido apenas pelo codinome V (Hugo Weaving), que é extremamente carismático e habilidoso na arte do combate e da destruição. Ao convocar seus compatriotas a se rebelar contra a tirania e a opressão do governo inglês, V provoca uma verdadeira revolução. Enquanto Evey tenta saber mais sobre o passado de V, ela termina por descobrir quem é e seu papel no plano de seu salvador para trazer liberdade e justiça ao país.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUARDIÕES DA GALÁXIA - 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92E8293F9C506A7E0CD3014473BBD8A371E89188$nome=GUARDIÕES DA GALÁXIA-IMAX 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD1B0BC8F2B3694D6B66FBA0FAA9418849BE462B$nome=GUARDIÕES DA GALÁXIA 2</link>
