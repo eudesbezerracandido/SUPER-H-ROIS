@@ -437,7 +437,8 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B] MICHAEL MORBIUS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF$nome=MICHAEL MORBIUS HDCAM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7LBY4QVYBMH5ESC3PXLCPGQOFWE74EU$nome=MICHAEL MORBIUS LEGENDADO</link>
 <thumbnail>https://ia601505.us.archive.org/0/items/morbius_202204/morbius.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aBkS2nFN8EMcMZEm6G2higwFSl7.jpg</fanart>
 <info> Durante um experimento para encontrar a cura de uma rara doença sanguínea, o Dr. Michael Morbius (Jared Leto) acidentalmente se transforma num sanguinário vampiro.</info>
