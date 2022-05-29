@@ -145,8 +145,8 @@ Enredo: Tudo parece estar indo muito bem para o Quarteto Fantástico. Reed e Sue
 <title>[COLOR silver][B] MOTOQUEIRO FANTASMA 1 & 2 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b$nome=MOTOQUEIRO 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf71ee7f0232a12e8ab7d4586a000b639df1f9f8$nome=MOTOQUEIRO 2</link>
-<thumbnail>https://img01.mgo-images.com/image/thumbnail/v2/content/MMVE8D01ABAB952C8A5FA98AE58F6A4F0DE6.jpeg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/qXMoc1ju14BXFo2vmy4kTbaQtH1.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>Johnny Blaze (Nicolas Cage) trabalha como dublê e piloto de motocicleta. Há muito tempo ele fez um pacto com Mefisto (Peter Fonda) para proteger as duas pessoas que mais amava: seu pai, Barton (Brett Cullen), e sua namorada de adolescência, Roxanne Simpson (Eva Mendes). Em troca Johnny se transforma à noite no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer as ordens de Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.
 Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: Espírito de Vingança (Ghost Rider: Spirit of Vengeance). Depois de se esconder na Europa, Blaze é recrutado por uma seita secreta da igreja para salvar um garoto (Fergus Riordan) do demônio (Ciaran Hinds). Johnny tenta recusar o chamado, mas essa é a sua grande chance de se livrar de sua maldição.</info>
 </item>
@@ -439,8 +439,8 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 <title>[COLOR silver][B] MICHAEL MORBIUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a05c2dba51ef11b949ec639bbf379cba2368eb07$nome=MICHAEL MORBIUS DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7LBY4QVYBMH5ESC3PXLCPGQOFWE74EU$nome=MICHAEL MORBIUS LEGENDADO</link>
-<thumbnail>https://ia601505.us.archive.org/0/items/morbius_202204/morbius.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aBkS2nFN8EMcMZEm6G2higwFSl7.jpg</fanart>
+<thumbnail>https://ia802503.us.archive.org/18/items/morbius_202204/morbius.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> Durante um experimento para encontrar a cura de uma rara doença sanguínea, o Dr. Michael Morbius (Jared Leto) acidentalmente se transforma num sanguinário vampiro.</info>
 </item>
 
