@@ -2,12 +2,12 @@
 
 
 <item>
-<title>[COLOR silver][B] DOUTOR ESTRANHO- NO MULTIVERSO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173DC54514604630F592D2AF38A73B5C90EF558F$nome=HDCAM DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0705683A1E304E305311D97F8E8B275616705D35$nome=LEGENDADO</link>
+<title>[COLOR silver][B] DOUTOR ESTRANHO- NO MULTIVERSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U5B24B744J6RRCF2CDESNDWN7JTEERC4$nome=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IR3XICRGPYHH7YE42KBNQZIFEGCCYSFA$nome=DUBLADO 4K</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sF0Ciu56om4sTR1KtuZvbUoqKrf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ag5CV8TwoCfN39Tz4MVQz7tHfQX.jpg</fanart>
-<info> Alguns meses depois dos eventos de "Homem-Aranha: Sem Volta Para Casa", o Dr. Stephen Strange, com a ajuda de velhos e novos aliados místicos, viaja pelo Multiverso para enfrentar um novo e misterioso adversário.</info>
+<info>A porta do multiverso, cheia de mistério e loucura, se abre. Agora que o Homem de Ferro e o Capitão América partiram após uma batalha feroz contra Thanos, o ex-cirurgião genial, e mago mais forte de todos, Doutor Estranho, deve desempenhar um papel ativo como uma figura central nos Vingadores. No entanto, usar sua magia para manipular o tempo e o espaço à vontade com um feitiço proibido, que é considerado o mais perigoso, abriu as portas para uma misteriosa loucura chamada “o Multiverso”. Para restaurar um mundo onde tudo está mudando, Strange busca a ajuda de seu aliado Wong, o Mago Supremo, e da Feiticeira Escarlate, a Vingadora mais poderosa, Wanda. Mas uma terrível ameaça paira sobre a humanidade e todo o universo, que não pode mais ser detida apenas com seu poder. O que ainda mais surpreendente, é que a maior ameaça do universo se parece exatamente com o Doutor Estranho…</info>
 </item>
 
 <item>
