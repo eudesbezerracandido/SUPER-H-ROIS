@@ -1,7 +1,7 @@
 # SUPER-H-ROIS
 
 
-<items>
+<item>
 <title>[COLOR silver][B] DOUTOR ESTRANHO- NO MULTIVERSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U5B24B744J6RRCF2CDESNDWN7JTEERC4$nome=DOUTOR ESTRANHO DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IR3XICRGPYHH7YE42KBNQZIFEGCCYSFA$nome=DOUTOR ESTRANHO DUBLADO 4K</link>
@@ -459,7 +459,7 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 <thumbnail>https://www.themoviedb.org/t/p/original/yox4nyshPZkAwRchjat37fmVhQ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A versão definitiva do diretor de Zack Snyder da Liga da Justiça. Determinado a garantir que o sacrifício final do Superman não fosse em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.</info>
-</items>
+</item>
 
 
 
