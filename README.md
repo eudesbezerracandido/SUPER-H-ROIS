@@ -1,6 +1,15 @@
 # SUPER-H-ROIS
 
 
+
+<item>
+<title>[COLOR silver][B] HOMEM ARANHA-SEM VOLTA PARA CASA ( VERSÃO ESTENDIDA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V6RG62UXSA3BIUCVQCO5AFXSL4OFK4NE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n6r3r1awElHm9Bzp3MC577IYwir.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Peter Parker precisa lidar com as consequências da sua identidade como o herói mais querido do mundo após ter sido revelada pela reportagem do Clarim Diário, com uma gravação feita por Mysterio. Incapaz de separar sua vida normal das aventuras de ser um super-herói, além de ter sua reputação arruinada por acharem que foi ele quem matou Mysterio e pondo em risco seus entes mais queridos, Parker pede ao Doutor Estranho para que todos esqueçam sua verdadeira identidade. Entretanto, o feitiço não sai como planejado e a situação torna-se ainda mais perigosa quando vilões de outras versões de Homem-Aranha de outro universos acabam indo para seu mundo. Agora, Peter não só deter vilões de suas outras versões e fazer com que eles voltem para seu universo original, mas também aprender que, com grandes poderes vem grandes responsabilidades como herói.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOUTOR ESTRANHO- NO MULTIVERSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U5B24B744J6RRCF2CDESNDWN7JTEERC4$nome=DOUTOR ESTRANHO DUBLADO</link>
