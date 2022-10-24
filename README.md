@@ -11,6 +11,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GUARDIÕES DA GALÁXIA - 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92E8293F9C506A7E0CD3014473BBD8A371E89188$nome=GUARDIÕES DA GALÁXIA IMAX 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD1B0BC8F2B3694D6B66FBA0FAA9418849BE462B$nome=GUARDIÕES DA GALÁXIA 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xaY92XMToaSnBuvCui3LHzNGqZB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O impetuoso aventureiro Peter Quill se vê como objeto de uma caçada implacável após roubar uma misteriosa esfera cobiçada por Ronan, um vilão poderoso com ambição que ameaça todo o universo. Para fugir do determinado Ronan, Quill é forçado a fazer uma complicada aliança com um quarteto de desajustados - Rocket, um guaxinim atirador, Groot, uma árvore mutante humanoide, a mortal e enigmática Gamora e o vingador Drax, o Destruidor. Mas quando Quill descobre o verdadeiro poder da esfera e o perigo que ela representa para o cosmo, ele deve fazer seu melhor para reunir seu grupo desorganizado para uma última e desesperada resistência - com o destino da galáxia em jogo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HOMEM ARANHA-SEM VOLTA PARA CASA ( VERSÃO ESTENDIDA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V6RG62UXSA3BIUCVQCO5AFXSL4OFK4NE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/n6r3r1awElHm9Bzp3MC577IYwir.jpg</thumbnail>
