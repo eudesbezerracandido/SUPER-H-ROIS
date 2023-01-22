@@ -212,7 +212,7 @@ Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: 
 <item>
 <title>[COLOR silver][B]  VINGADORES  -  A ERA DE ULTRON [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61D9EA2D5E6CBF6465DE9AC5758EEB6694CFBC8D</link>
-<thumbnail>https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/0/408420150509-uau-posters-filmes-avengers-os-vingadores-era-ultron.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/vGIIl89vglo66yUfbuTxzNAs4y5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tentando proteger o planeta de ameaças como as vistas no primeiro Os Vingadores, Tony Stark busca construir um sistema de inteligência artifical que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron (voz de James Spader). Capitão América (Chris Evans), Homem de Ferro (Robert Downey Jr.), Thor (Chris Hemsworth), Hulk (Mark Ruffalo), Viúva Negra (Scarlett Johansson) e Gavião Arqueiro (Jeremy Renner) terão que se unir para mais uma vez salvar o dia.</info>
 </item>
