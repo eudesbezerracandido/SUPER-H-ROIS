@@ -1,6 +1,12 @@
 # SUPER-H-ROIS
 
-
+<item>
+<title>[COLOR silver][B] PANTERA - WAKANDA PARA SEMPRE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09ce13018624147ef343efab33d02debc28b3e92</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cryEN3sWlgB2wTzcUNVtDGI8bkM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os líderes do reino de Wakanda lutam para proteger a sua nação das forças invasoras, após a morte do Rei TChalla.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] ADÃO  NEGRO  HDCAM ( CINEMA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
