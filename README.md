@@ -1,5 +1,16 @@
 # SUPER-H-ROIS
 
+
+
+
+<item>
+<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM)  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB2DDB4B9B8E26873DBD43EBDEC5BA5F09D4F2C5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
+<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PANTERA - WAKANDA PARA SEMPRE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09ce13018624147ef343efab33d02debc28b3e92</link>
@@ -9,8 +20,8 @@
 </item> 
 
 <item>
-<title>[COLOR silver][B] ADÃO  NEGRO  HDCAM ( CINEMA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181</link>
+<title>[COLOR silver][B] ADÃO  NEGRO   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QUKU4DVY43ZJ6Z5TTQAMAT3CEPS7GTAN</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/doFGXRBPqUnfEhIsOiVXQYeLB7V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5aGvMSMfE6BqQXR3mG46zjgX8V8.jpg</fanart>
 <info>Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses egípcios - e preso com a mesma rapidez - Adão Negro (Johnson) é libertado de sua tumba terrena, pronto para liberar sua forma única de justiça no mundo moderno.</info>
