@@ -4,8 +4,8 @@
 
 
 <item>
-<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM)  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB2DDB4B9B8E26873DBD43EBDEC5BA5F09D4F2C5</link>
+<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM) DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:522885606DCB1279F3A766D4E01E4CE0FA8587E6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
 <info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
