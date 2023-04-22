@@ -6,7 +6,7 @@
 <item>
 <title>[COLOR silver][B] COLEÇÃO CAPITÃO AMÉRICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0284b6529b87c4ff014f541911339f7d352457aa$nome=O PRIMEIRO VINGADOR</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da9989b71dccc1eba4626c3bb7e852e93830b448$nome=GUERRA CIVIL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17895FCFDE4CE0B063A30BB6EC06E92A556920CF$nome=GUERRA CIVIL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5971ea344e64e6b3a7a96910adbb189a8f50d906$nome=SOLDADO INVERNAL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vm4fafQrxJexDbc7qBPzYK8xq1i.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
