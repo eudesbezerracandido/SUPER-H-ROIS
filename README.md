@@ -1,6 +1,18 @@
 # SUPER-H-ROIS
 
 
+
+
+<item>
+<title>[COLOR silver][B] COLEÇÃO CAPITÃO AMÉRICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0284b6529b87c4ff014f541911339f7d352457aa$nome=O PRIMEIRO VINGADOR</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da9989b71dccc1eba4626c3bb7e852e93830b448$nome=GUERRA CIVIL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5971ea344e64e6b3a7a96910adbb189a8f50d906$nome=SOLDADO INVERNAL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vm4fafQrxJexDbc7qBPzYK8xq1i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> É 1942, a América entrou II Guerra Mundial, e doente, mas determinado Steve Rogers é frustrado por ter sido rejeitado mais uma vez para o serviço militar. Tudo muda quando o Dr. Erskine recruta-lo para o Rebirth projeto secreto. Demonstrando a sua extraordinária coragem, inteligência e consciência, Rogers sofre a experiência e seu corpo fraco é subitamente reforçada para o potencial humano máxima. Quando o Dr. Erskine é então imediatamente assassinado por um agente do departamento de pesquisa HYDRA secreta da Alemanha nazista (liderado por Johann Schmidt, A.K.A. o Caveira Vermelha), Rogers é deixada como um homem único que é inicialmente utilizada como um mascote de propaganda; no entanto, quando seus companheiros precisam dele, Rogers vai em uma aventura bem sucedida que realmente faz dele o Capitão América, e sua guerra contra Schmidt começa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336C4D2040DCC562A39F67F62C247022685C30D1</link>
