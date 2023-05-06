@@ -1,7 +1,13 @@
 # SUPER-H-ROIS
 
 
-
+<item>
+<title>[COLOR silver][B] GUARDIÕES DA GALÁXIA 3 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65AFC39A2ED9484691B648A556FBD5AF90F70F91</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gNGiErwNakC6snFJoVpcD7vYWGa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Guardiões da Galáxia Vol. 3 Torrent – Em Guardiões da Galáxia Vol. 3, o amado grupo de desajustados busca se estabelecer em Lugar Nenhum, mas não demora muito para que suas vidas sejam reviradas pelos ecos do passado turbulento de Rocket (Bradley Cooper). Ainda se recuperando da perda de Gamora (Zoe Saldana), após os acontecimentos de Vingadores: Guerra Infinita (2018), Peter Quill (Chris Pratt) reúne sua equipe para defender o universo e um companheiro de equipe. Mas esta missão pode significar o fim dos Guardiões como conhecemos, se ela não for bem-sucedida. Encerramento da trilogia iniciada em 2014, sendo a continuação de Guardiões da Galáxia Vol. 2 (2017).</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO CAPITÃO AMÉRICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
