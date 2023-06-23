@@ -529,6 +529,15 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 <info>A versão definitiva do diretor de Zack Snyder da Liga da Justiça. Determinado a garantir que o sacrifício final do Superman não fosse em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] THOR - AMOR & TROVÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:357cd2df0992cc36ccae21284b68db82cf9fbe7d$nome=THOT AMOR & TROVÃO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2AHWY2C4375A55MIA4ZPCRR5WSHB4GR$nome=THOT AMOR & TROVÃO IMAX 4K</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela paz interior. Mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg e da ex-namorada Jane Foster, que – para surpresa de Thor – inexplicavelmente empunha seu martelo mágico, Mjolnir, como o Poderoso Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demais.</info>
+</item>
+
 
 
 
