@@ -354,19 +354,6 @@ Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: 
 </item>
 
 <item>
-<title>[COLOR silver][B] ANTOLOGIA -  SUPERMAN [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498$nome=SUPERMAN O FILME</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947$nome=SUPERMAN 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5$nome=SUPERMAN 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18$nome=SUPERMAN 4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37$nome=SUPERMAN O HOMEM DE AÇO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdad4d8e5aa48ecffd0f8252d283aff92694d591$nome=O RETORNO DO SUPERMAN</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/wW0F2iC6cTwz99viCJQlK1W2GZj.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Esta coleção inclui a série de filmes de super-heróis originais do personagem Superman da DC Comics, estrelado por Christopher Reeve e a quinta e última parcela, Superman Returns, de 2006. A série é centrada em Clark Kent, um kryptoniano do planeta Krypton cujo nome de nascimento é Kal- El. Superman mora na cidade de Metrópolis, onde trabalha como jornalista para o jornal Planeta Diário.</info>
-</item> 
-
-<item>
 <title>[COLOR silver][B] HULK - TEMPORADA COMPLETA DE 1978 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA5E885A616B0E8745274278EA62C5FEAB88437E</link>
 <thumbnail>https://http2.mlstatic.com/coleco-o-incrivel-hulk-1977-a-2008-D_NQ_NP_803801-MLB20417478548_092015-F.jpg</thumbnail>
