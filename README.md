@@ -3,6 +3,19 @@
 
 
 <item>
+<title>[COLOR silver][B] SUPERMAN - COLEÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$nome=O FILME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947$nome=SUPERMAN II</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5$nome=SUPERMAN III</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18$nome=SUPERMAN IV</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6800c0ec6bbeabbc356f5a42e1ffd5272c164a69$nome=SUPERMAN-O HOMEM DE AÇO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73d25802012d6309be1becb6aa7ae23bd95a7359$nome=SUPERMAN-O RETORNO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2f9tXyqJqHxYYJXiKQvlz07976e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg</fanart>
+<info>Esta coleção inclui a série de filmes de super-heróis originais do personagem Superman da DC Comics, estrelado por Christopher Reeve e a quinta e última parcela, Superman Returns, de 2006. A série é centrada em Clark Kent, um kryptoniano do planeta Krypton cujo nome de nascimento é Kal- El. Superman mora na cidade de Metrópolis, onde trabalha como jornalista para o jornal Planeta Diário.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE FLASH 2023 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:821DB3EFB8931104204C78B008BA154B4E4DBCD5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/89GrfnscTLQJZDPwo2XewBfAF9x.jpg</thumbnail>
