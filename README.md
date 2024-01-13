@@ -2,6 +2,17 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] AQUAMAN 2 - O REINO PERDIDO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9ce1bfc4f2c6ffb5d11fb36b8a06a87c13531c4$nome=AQUAMAN</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81C27075590D6E756FE15628ABC30A4524473D08$nome=AQUAMAN O REINO PERDIDO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Aquaman 2 é a sequência do filme Aquaman de 2018, que acompanha Arthur Curry (Jason Momoa), o filho do humano Tom Curry (Temuera Morrison) com a atlante Atlanna (Nicole Kidman). Ele cresce com a vivência de um humano e as capacidades metahumanas de um atlante. Nesta sequência, depois de não conseguir derrotar o rei dos mares pela primeira vez, Arraia Negra (Yahya Abdul-Mateen II) utiliza o poder do mítico Tridente Negro para liberar uma força antiga e maligna. Na tentativa de proteger Atlântida e o resto do mundo, Aquaman deve forjar uma aliança incômoda com um aliado improvável e deixar as diferenças de lado para evitar uma devastação irreversível.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SUPERMAN - COLEÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$nome=O FILME</link>
