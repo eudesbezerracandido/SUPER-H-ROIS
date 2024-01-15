@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] AS MARVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3694F5A74B6F9DE1C73C094EB0B2C5B922FC0A60</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a1mPj5EpY5mENWc1IioPWBW5mhc.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>As Marvels é um filme norte-americano que serve como sequência para Capitã Marvel, lançado em 2019 e protagonizado por Brie Larson (O Quarto de Jack, Lessons in Chemistry). No novo longa, a Capitã – também conhecida como Carol Danvers (Larson) – está de volta para mais uma missão: agora, ela precisa lidar com consequências não intencionais que a levam a carregar o fardo de um universo desestabilizado. Porém, enquanto tenta resolver o problema, Denvers vai parar acidentalmente em um buraco de minhoca anômalo, que faz com que seus poderes acabem entrelaçados aos de outras duas heroínas. Envolvidas em um misterioso fenômeno que faz com que elas troquem de lugar sem entender a causa para tal, nascem As Marvels: a superfã Kamala Khan (Iman Vellani), também conhecida como Ms. Marvel, e a sobrinha afastada de Carol, capitã Monica Rambeau (Teyonah Parris), que agora trabalha como astronauta do programa S.A.B.E.R..</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AQUAMAN 2 - O REINO PERDIDO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
