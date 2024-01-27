@@ -11,9 +11,9 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DUOLOGIA - AQUAMAN  ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DUOLOGIA - AQUAMAN  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9ce1bfc4f2c6ffb5d11fb36b8a06a87c13531c4$nome=AQUAMAN</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D8ED381DDB8BB38903F75BBA7F8688314496106$nome=AQUAMAN O REINO PERDIDO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90526408e428067ce0587bd52b5e4159205223aa$nome=AQUAMAN O REINO PERDIDO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Aquaman 2 é a sequência do filme Aquaman de 2018, que acompanha Arthur Curry (Jason Momoa), o filho do humano Tom Curry (Temuera Morrison) com a atlante Atlanna (Nicole Kidman). Ele cresce com a vivência de um humano e as capacidades metahumanas de um atlante. Nesta sequência, depois de não conseguir derrotar o rei dos mares pela primeira vez, Arraia Negra (Yahya Abdul-Mateen II) utiliza o poder do mítico Tridente Negro para liberar uma força antiga e maligna. Na tentativa de proteger Atlântida e o resto do mundo, Aquaman deve forjar uma aliança incômoda com um aliado improvável e deixar as diferenças de lado para evitar uma devastação irreversível.</info>
