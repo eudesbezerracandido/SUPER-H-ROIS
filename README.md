@@ -314,7 +314,7 @@ Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: 
 </item>
 
 <item>
-<title>[COLOR silver][B] DEMOLIDOR - O HOMEM SE MEDO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DEMOLIDOR - O HOMEM SEM MEDO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a4de8b92e341b4b2d045438dd7c647edc2779cf</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71mpL6uYeSL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
