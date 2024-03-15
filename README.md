@@ -191,7 +191,7 @@
 
 <item>
 <title>[COLOR silver][B] QUARTETO FANTASTICO 2015 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA22E35E89F00A5810E5D1F539B687AC7512844D</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa22e35e89f00a5810e5d1f539b687ac7512844d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aVGL67lLyUJmmpgmrsgRDkDY8Nm.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quatro adolescentes são conhecidos pela inteligência e pelas dificuldades de inserção social. Juntos, são enviados a uma missão perigosa em uma dimensão alternativa. Quando os planos falham, eles retornam à Terra com sérias alterações corporais. Munidos desses poderes especiais, eles se tornam o Senhor Fantástico (Miles Teller), a Mulher Invisível (Kate Mara), o Tocha Humana (Michael B. Jordan) e o Coisa (Jamie Bell). O grupo se une para proteger a humanidade do ataque do Doutor Destino (Toby Kebbell).</info>
