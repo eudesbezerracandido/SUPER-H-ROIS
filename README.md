@@ -32,7 +32,7 @@
 
 <item>
 <title>[COLOR silver][B] SUPERMAN - COLEÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$nome=O FILME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498$nome=O FILME 1978</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947$nome=SUPERMAN II</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5$nome=SUPERMAN III</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18$nome=SUPERMAN IV</link>
